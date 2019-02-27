@@ -21,4 +21,5 @@ Part of the project's html and css files are reference to Hiitea's [hexo-theme-r
 The MIT License
 
 Copyright (c) 2018 Renqiang renqiangme@qq.com
+
 Copyright (c) 2015-2018 Hiitea luohaojing@gmail.com
