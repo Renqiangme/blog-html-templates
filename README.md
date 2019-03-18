@@ -13,8 +13,6 @@ Part of the project's html and css files are reference to Hiitea's [hexo-theme-r
 
 ![Tags page](https://github.com/Renqiangme/blog-html-templates/raw/master/screenshot/tag.png)
 
-![About page](https://github.com/Renqiangme/blog-html-templates/raw/master/screenshot/about.png)
-
 ![Article page](https://github.com/Renqiangme/blog-html-templates/raw/master/screenshot/article.png)
 
 # License
